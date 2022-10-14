@@ -6,6 +6,7 @@
  *
  * put - writes the string on the output
  *
+ * Return - always 0 (success)
  */
 int main(void)
 {
