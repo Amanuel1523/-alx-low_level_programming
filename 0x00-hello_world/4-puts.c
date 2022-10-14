@@ -1,7 +1,11 @@
 #include <stdio.h>
-/* main method
- * starts
- * here
+/**
+ * main - Entry point
+ *
+ * str - declared string
+ *
+ * put - writes the string on the output
+ *
  */
 int main(void)
 {
