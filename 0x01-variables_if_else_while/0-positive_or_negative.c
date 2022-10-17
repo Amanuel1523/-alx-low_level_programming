@@ -8,7 +8,7 @@
  *
  * Return: Always 0 (Successful)
  */
-void trim (char *s);
+void trim(char *s);
 
 int main(void)
 {
