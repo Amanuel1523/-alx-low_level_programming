@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 #include <stdlib.h>
 #include <time.h>
 /**
@@ -8,8 +7,6 @@
  *
  * Return: Always 0 (Successful)
  */
-void trim(char *s);
-
 int main(void)
 {
 	int n;
