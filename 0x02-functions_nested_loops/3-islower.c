@@ -2,9 +2,7 @@
 /**
  * _islower - check ethier the input is lowercase or not
  *
- * c - is the parameter of the defined function _islower
- * C - parameter
- * int c - declaration of parameter
+ * @c: single letter input
  *
  * Return: if it returns 1 the letter is in lowercase else it returns 0
  */
